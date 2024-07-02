@@ -1,0 +1,16 @@
+{
+  "name": "MTsocket",
+  "version": "0.1.0",
+  "description": "socket.io",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server",
+    "dev": "nodemon server"
+  },
+  "dependencies": {
+    "socket.io": "^4.7.5"
+  },
+  "engines": {
+    "node": ">=14"
+  }
+}
